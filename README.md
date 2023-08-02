@@ -18,3 +18,6 @@ About my age and where I live, I can only say that I'm now 16 and I live in the 
 ![Tools](https://skillicons.dev/icons?i=androidstudio,cmake,git,gradle,idea,visualstudio,vscode)
 
 [![spiroth's GitHub stats](https://github-readme-stats.vercel.app/api?username=spiroth&show_icons=true&theme=transparent)](https://github.com/spiroth)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
