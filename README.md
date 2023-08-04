@@ -16,10 +16,12 @@ About my age and where I live, I can only say that I'm now 16 and I live in the 
 ### Tools that I like to use
 ![Tools](https://skillicons.dev/icons?i=androidstudio,cmake,git,gradle,idea,visualstudio,vscode)
 
----
+## Statistics
+### GitHub
+[![spiroth's GitHub stats](https://github-readme-stats.vercel.app/api?username=spiroth&theme=transparent&custom_title=Statistics&show_icons=true&hide_title=true&hide_border=true)](https://github.com/spiroth)
 
-[![spiroth's GitHub stats](https://github-readme-stats.vercel.app/api?username=spiroth&theme=transparent&custom_title=Statistics&show_icons=true&hide_border=true)](https://github.com/spiroth)
+### WakaTime
+[![spiroth's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=spir0th&theme=transparent&hide_title=true&hide_border=true)](https://wakatime.com/@spir0th)
 
-[![spiroth's Most Used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spiroth&theme=transparent&layout=compact&hide_border=true)](https://github.com/spiroth)
-
-[![spiroth's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=spir0th&theme=transparent&hide_border=true)](https://wakatime.com/@spir0th)
+### Most Used Languages
+[![spiroth's Most Used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spiroth&theme=transparent&layout=compact&hide_title=true&hide_border=true)](https://github.com/spiroth)
