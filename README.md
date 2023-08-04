@@ -16,6 +16,8 @@ About my age and where I live, I can only say that I'm now 16 and I live in the 
 ### Tools that I like to use
 ![Tools](https://skillicons.dev/icons?i=androidstudio,cmake,git,gradle,idea,visualstudio,vscode)
 
+---
+
 [![spiroth's GitHub stats](https://github-readme-stats.vercel.app/api?username=spiroth&theme=transparent&custom_title=Statistics&show_icons=true&hide_border=true)](https://github.com/spiroth)
 
 [![spiroth's Most Used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spiroth&theme=transparent&layout=compact&hide_border=true)](https://github.com/spiroth)
