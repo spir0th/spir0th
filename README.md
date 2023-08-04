@@ -19,4 +19,13 @@ About my age and where I live, I can only say that I'm now 16 and I live in the 
 [![spiroth's GitHub stats](https://github-readme-stats.vercel.app/api?username=spiroth&show_icons=true&theme=transparent)](https://github.com/spiroth)
 
 <!--START_SECTION:waka-->
+
+```txt
+Markdown   2 hrs 3 mins    ███████████▒░░░░░░░░░░░░░   45.99 %
+HTML       58 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.69 %
+SCSS       52 mins         █████░░░░░░░░░░░░░░░░░░░░   19.59 %
+YAML       34 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.71 %
+CSS        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+```
+
 <!--END_SECTION:waka-->
