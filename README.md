@@ -1,4 +1,3 @@
-# Hi!
 I'm Gian Borcillo, also known as spir0th.
 
 Developing software is my thing, I also produce (bad) music, and I have a habit of editing videos with my sterile ideas.
