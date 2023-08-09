@@ -1,4 +1,4 @@
-I'm Gian Borcillo, also known as spir0th.
+I'm Gian Borcillo, also known as spir0th (or spiroth).
 
 Developing software is my thing, I also produce (bad) music, and I have a habit of editing videos with my sterile ideas.
 
@@ -18,10 +18,10 @@ About my age and where I live, I can only say that I'm now 16 and I live in the 
 
 ## Statistics
 ### GitHub
-[![spiroth's GitHub stats](https://github-readme-stats.vercel.app/api?username=spiroth&theme=transparent&custom_title=Statistics&show_icons=true&hide_title=true&hide_border=true)](https://github.com/spiroth)
+[![spiroth's GitHub stats](https://github-readme-stats.vercel.app/api?username=spir0th&theme=transparent&custom_title=Statistics&show_icons=true&hide_title=true&hide_border=true)](https://github.com/spir0th)
 
 ### WakaTime
 [![spiroth's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=spir0th&theme=transparent&hide_title=true&hide_border=true)](https://wakatime.com/@spir0th)
 
 ### Most Used Languages
-[![spiroth's Most Used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spiroth&theme=transparent&layout=compact&hide_title=true&hide_border=true)](https://github.com/spiroth)
+[![spiroth's Most Used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spir0th&theme=transparent&layout=compact&hide_title=true&hide_border=true)](https://github.com/spir0th)
