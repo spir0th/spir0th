@@ -1,6 +1,6 @@
 I'm Feive Gian Borcillo, also known as spir0th (or spirothXYZ, spiroth)
 
-I am a Senior High School (Grade 11) student at [Iligan Computer Institute](https://ici.edu.ph), under the "Information Technology" strand. Developing software is my thing, I also produce (bad) music, and I have a habit of editing videos/pictures with my sterile ideas.
+I am a Senior High School (Grade 11) student at [Iligan Computer Institute](https://ici.edu.ph). Developing software is my thing, I also produce (bad) music, and I have a habit of editing videos/pictures with my sterile ideas.
 
 My first experiences of programming were [PyDroid 3](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3) and [Sketchware](https://play.google.com/store/apps/details?id=com.besome.sketch) at the age of 11. To know more about how I started my programming journey, I'll make a blog about it soon!
 
@@ -12,7 +12,7 @@ My first experiences of programming were [PyDroid 3](https://play.google.com/sto
 ![Framework](https://skillicons.dev/icons?i=dotnet,electron,firebase,flutter,godot,gtk,qt,react,supabase,tauri)
 
 ### Tools that I like to use
-![Tools](https://skillicons.dev/icons?i=androidstudio,cmake,git,gradle,idea,visualstudio,vscode)
+![Tools](https://skillicons.dev/icons?i=androidstudio,blender,cmake,git,gradle,idea,visualstudio,vscode)
 
 ## Statistics
 ### GitHub
